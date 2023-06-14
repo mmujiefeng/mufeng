@@ -1,0 +1,20 @@
+1.通过   https://stargate.finance/transfer 进行跨链  
+跨链路线ARB-OP，OP-ARB，单边五次
+
+2.   https://fi.woo.org/  单边五次  arb-op
+
+3.  https://bitcoinbridge.network/bridge  跨链  arb-op  单边三次
+这里买BTC.b    https://traderjoexyz.com/arbitrum/trade
+合约0x2297aEbD383787A160DD0d9F71508148769342E3
+
+4.   https://app.radiant.capital/#/bridge  跨链  跨三次  arb
+这里买RDNT，买三个  
+https://app.balancer.fi/#/arbitrum/swap/eth/0x3082cc23568ea640225c2467653db90e9250aaa0
+
+5.  https://app.abracadabra.money/#/beam 跨链 一次
+这里买MIM，买0.1个都可以
+app.paraswap.io/#/?network=arbitrum
+
+
+
+6.   https://app.umbra.cash/
